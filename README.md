@@ -20,7 +20,7 @@ Dando como resultado la siguiente ventana / interfáz gráfica ->
 
 FUNCIONAMIENTO DEL PROGRAMA
 
-Al hacer click sobre el botón "Say 'Hello World'" obtendremos en nuestra interfáz el siguiente mensaje ->
+Al hacer click sobre el botón "Sign in'" obtendremos en nuestra interfáz el siguiente mensaje ->
 
 <img width="461" alt="Captura de Pantalla 2022-09-23 a las 16 16 33" src="https://user-images.githubusercontent.com/114193449/191981399-21b055cc-ef6b-450b-9266-7d7d9bbff88d.png">
 
